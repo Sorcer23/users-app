@@ -1,7 +1,6 @@
 import { observer } from 'mobx-react-lite';
 import { useEffect } from 'react';
 import { Container, Box, TextField } from '@mui/material';
-import _ from 'lodash';
 import { useRootStore } from 'src/context/root-store/root-store.context';
 import { UsersTable } from 'src/components/UsersTable';
 

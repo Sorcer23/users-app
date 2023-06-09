@@ -5,6 +5,9 @@ import eslint from 'vite-plugin-eslint';
 
 const config = ({ mode }) =>
   defineConfig({
+    server: {
+      port: 8000,
+    },
     resolve: {
       alias: {
         src: resolve(__dirname, 'src'),
