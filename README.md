@@ -1,7 +1,8 @@
+This project is tested with BrowserStack.
+
 # Users app
 
 Welcome to your React application! This project uses [Vite.js](https://vitejs.dev/) as the build tool and development server.
-This project is tested with BrowserStack.
 
 ## Getting Started
 
